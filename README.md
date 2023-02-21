@@ -59,16 +59,7 @@ Want to contribute? Great!
 Reliance Digital uses HTML/CSS/JS + Splide & Bootstrap name for fast developing.
 Make a change in your file and instantaneously see your updates!
 
-Verify the deployment by navigating to your server address in
-your preferred browser.
 
-```sh
-127.0.0.1:5500
-```
-
-## License
-
-MIT
 
 **Free Software, Hell Yeah!**
 
